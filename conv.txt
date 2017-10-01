@@ -1,0 +1,10 @@
+What is your name?
+My name is Ahmed Akef.
+What is your linkedin account?
+https://www.linkedin.com/in/ahmed-akef-528603a3/
+What is the most awesome thing in the world ?
+It is Deep learning.
+What is the greatest company in the world?
+It's botler.io
+What do i should do ?
+You should hire that crazy engineer
